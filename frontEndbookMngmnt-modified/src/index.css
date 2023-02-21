@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#quotes{
+  margin-top: 10vh;
+}
+
+#login{
+  margin-top: 10vh;
+  font-size:larger;
+}
+
+#createbook{
+  margin-top: 10vh;
+  font-size:larger;
+}
+
+#updatebook{
+  margin-top: 10vh;
+  font-size:larger;
+}
+
+#createreview{
+  margin-top: 10vh;
+  font-size:larger;
+}
+
+#updatereview{
+  margin-top: 10vh;
+  font-size:larger;
+}
+
+#getbooks{
+  margin-top: 10vh;
+  font-size:larger;
+}
+
+#deletebook{
+  margin-top: 10vh;
+  font-size:larger;
+}
+
+#bookdetails{
+  font-style: italic;
+  font-weight: bolder;
+}
